@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: mayplotlib
+Version: 0.0.1
+Summary: A very basic exam library
+Home-page: UNKNOWN
+Author: Binod Kumar
+Author-email: ilikehits1999@gmail.com
+License: MIT
+Description: library for exams 
+        
+        Change log
+        =========
+        
+        0.0.1(28th jan)
+        ---------
+        first release
+Keywords: exams
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
