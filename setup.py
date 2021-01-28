@@ -13,7 +13,7 @@ setup(
   version='0.0.1',
   description='A very basic exam library',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
-  url='',  
+  url='https://github.com/singh-yashwant/mayplotlib',  
   author='Binod Kumar',
   author_email='ilikehits1999@gmail.com',
   license='MIT', 
